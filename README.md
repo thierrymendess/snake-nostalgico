@@ -1,15 +1,18 @@
-Tetris Arcade
+# 🐍 Snake Nostálgico
 
-Um jogo clássico de Tetris estilo arcade retrô, desenvolvido com HTML, CSS e JavaScript puro (Canvas API).
+Um jogo clássico da cobrinha inspirado nos celulares antigos, recriado com visual retrô e jogabilidade simples e viciante.
 
-O projeto simula a experiência de um fliperama dos anos 80, com visual CRT, scanlines e sons digitais.
+O objetivo é controlar a cobra, coletar comida e crescer o máximo possível sem colidir com as paredes ou com o próprio corpo.
 
-🕹️ Funcionalidades
-🎯 Sistema completo de pontuação
-🧱 Detecção de colisão precisa
-🔄 Geração aleatória de peças
-👀 Preview da próxima peça
-📈 Sistema de nível progressivo
-💾 High Score salvo no navegador (localStorage)
-🔊 Sons retrô usando Web Audio API
-🖥️ Interface estilo arcade com efeito CRT
+---
+
+## 🎮 Funcionalidades
+
+* 🐍 Movimento fluido em grid
+* 🍎 Sistema de crescimento ao comer
+* 💥 Detecção de colisão (parede e corpo)
+* 📈 Sistema de pontuação
+* 💾 **High Score salvo no navegador (localStorage)**
+* ⚡ Velocidade progressiva (fica mais difícil com o tempo)
+* 🖥️ Estilo visual retrô
+
